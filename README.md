@@ -1,4 +1,4 @@
-# vite + Nuxt + Vuetify3 + Tailwind Css
+# vite + Nuxt + Vuetify3 + Tailwind Css + TypeScript
 
 ## 手順
 1. viteでNuxtプロジェクト作成
@@ -7,6 +7,11 @@
    1. https://zenn.dev/coedo/articles/nuxt3-vuetify3
 3. Tailwindのインストール
    1. https://tailwindcss.com/docs/guides/vite#vue
+4. TypeScriptのセットアップ
+   - https://nuxt.com/docs/guide/concepts/typescript
+   - https://nuxt.com/docs/api/commands/typecheck
+   - https://qiita.com/couragenki/items/d8a809c383c4fef9ecda
+     - 3つののnpmインストールできた。
 
 ## 参考
 - ライブラリのティアリスト

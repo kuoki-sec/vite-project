@@ -11,6 +11,7 @@
   "devDependencies": {
     "@mdi/font": "^7.2.96",
     "@mdi/js": "^7.2.96",
+    "@nuxt/typescript-build": "^3.0.1",
     "autoprefixer": "^10.4.14",
     "nuxt": "^3.3.3",
     "postcss": "^8.4.21",
