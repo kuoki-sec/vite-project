@@ -3,6 +3,11 @@
     <VBtn>Vuetify のボタン</VBtn>
   </div>
 
+
+  <h1 class="text-3xl font-bold underline">
+    Hello world!
+  </h1>
+  
   <v-card
     class="mx-auto"
     max-width="425"
