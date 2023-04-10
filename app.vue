@@ -4,10 +4,10 @@
   </div>
 
 
-  <h1 class="text-3xl font-bold underline">
+  <h1 class="text-red-500 text-3xl font-bold underline">
     Hello world!
   </h1>
-  
+  <p class="text-blue-600">The quick brown fox...</p>
   <v-card
     class="mx-auto"
     max-width="425"
@@ -20,7 +20,7 @@
         title="Brunch this weekend?"
       >
         <template v-slot:subtitle>
-          <span class="font-weight-bold">Ali Connors</span> &mdash; I'll be in your neighborhood doing errands this weekend. Do you want to hang out?
+          <span class="text-red-500 font-weight-bold">Ali Connors</span> &mdash; I'll be in your neighborhood doing errands this weekend. Do you want to hang out?
         </template>
       </v-list-item>
 

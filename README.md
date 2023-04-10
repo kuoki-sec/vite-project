@@ -5,7 +5,7 @@
    1. https://ja.vitejs.dev/guide/
 2. Vuetify3のインストール
    1. https://zenn.dev/coedo/articles/nuxt3-vuetify3
-3. Tailwindのインストール
+3. Tailwindのインストール（効いてないな…）
    1. https://tailwindcss.com/docs/guides/vite#vue
 4. TypeScriptのセットアップ
    - https://nuxt.com/docs/guide/concepts/typescript
